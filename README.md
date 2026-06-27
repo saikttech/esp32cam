@@ -446,11 +446,11 @@ ESP32 Camera Driver — за драйвер камеры
 
 <div align="center">
 
-© dsaru 2026 | ESP32-CAM Hi-Tech Camera
-Сделано с ❤️ для сообщества IoT
-⭐ Если проект был полезен, поставьте звезду на GitHub! ⭐
+© dsaru 2026 | ESP32-CAM Hi-Tech Camera  
+Сделано с ❤️ для сообщества IoT  
+⭐ Если проект был полезен, поставьте звезду на GitHub! ⭐  
 </div>
-```
+
 
 
 
