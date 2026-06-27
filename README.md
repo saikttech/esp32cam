@@ -123,6 +123,9 @@
 ```bash
 git clone https://github.com/yourusername/esp32-cam-hitech-camera.git
 
+
+---
+
 ## 📡 Использование
 
 ### Подключение к камере
