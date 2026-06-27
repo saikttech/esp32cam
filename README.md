@@ -122,7 +122,7 @@
 1. Скачайте или клонируйте репозиторий:
 ```bash
 git clone https://github.com/yourusername/esp32-cam-hitech-camera.git
-
+```
 
 ---
 
