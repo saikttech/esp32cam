@@ -1,0 +1,19 @@
+# Arduino
+*.ino.tmp
+*.ino.bak
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ESP32
+.cache/
